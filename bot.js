@@ -23,7 +23,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : i1Suhaib ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`$help | enderbot`,"http://twitch.tv/7df_q8")
+client.user.setGame(`$help | the prince bot`,"http://twitch.tv/7df_q8")
 client.user.setStatus("dnd")
 });
 
